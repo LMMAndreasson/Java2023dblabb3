@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ab441da-8645-4dcb-9e1a-6fbb831bf935" name="Changes" comment="Doneso">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java2023dblabb3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java2023dblabb3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ab441da-8645-4dcb-9e1a-6fbb831bf935" name="Changes" comment="Doneso" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +51,15 @@
       <workItem from="1708470694538" duration="628000" />
       <workItem from="1708510786537" duration="3411000" />
       <workItem from="1708876287064" duration="624000" />
-      <workItem from="1708893590446" duration="13024000" />
+      <workItem from="1708893590446" duration="13053000" />
     </task>
+    <task id="LOCAL−00001" summary="Doneso">
+      <created>1708914658017</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1708914658017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
